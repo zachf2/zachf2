@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zachf2
 - 👀 I’m interested in ... Web dev
-- 🌱 I’m currently learning ... Advandced node and nestjs
+- 🌱 I’m currently learning ... Advanced node and nestjs
 - 💞️ I’m looking to collaborate on ... a web server
 - 📫 How to reach me ...
 
